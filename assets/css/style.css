@@ -285,11 +285,17 @@ header h1 a:hover {
 header li {
   color: #ffffff;
   float: right;
-  padding-right: 10px;
-  font-family: 'sans-serif';
+  padding-right: 20px;
+  font-family: 'Roboto';
   text-transform; uppercase;
-  font-weight: 200;
+  font-weight: 400;
   font-size: 1.2rem;
+}
+header li a{
+  color: #ffffff;
+}
+header li a:hover{
+  color: #37cca2;
 }
 header ul {
   text-align: right;
