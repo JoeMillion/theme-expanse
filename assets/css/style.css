@@ -283,7 +283,7 @@ header h1 a:hover {
   color: #25C4AA;
 }
 header .navigation {
-  width: 100%;
+  align-items: flex-end;
   margin-left: 50px;
   padding-left: 50px;
 }
