@@ -287,7 +287,6 @@ header .navigation {
   padding-left: 50px;
 }
 header li {
-  position: inherit;
   color: #ffffff;
   float: right;
   padding-right: 20px;
