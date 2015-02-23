@@ -293,9 +293,11 @@ header li {
 }
 header li a{
   color: #ffffff;
+  text-transform; uppercase;
 }
 header li a:hover{
   color: #37cca2;
+  text-transform; uppercase;
 }
 header ul {
   text-align: right;
