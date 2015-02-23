@@ -283,10 +283,11 @@ header h1 a:hover {
   color: #37cca2;
 }
 header li {
-  color: white;
+  color: #ffffff;
   float: right;
-  padding: 20px;
-  font-family: 'Roboto';
+  padding-right: 10px;
+  font-family: 'sans-serif';
+  text-transform; uppercase;
   font-weight: 200;
   font-size: 1.2rem;
 }
