@@ -289,15 +289,14 @@ header li {
   font-family: 'Roboto';
   text-transform; uppercase;
   font-weight: 400;
-  font-size: 1.2rem;
+  font-size: 0.8rem;
 }
 header li a{
+  font-size: 0.8rem;
   color: #ffffff;
-  text-transform; uppercase;
 }
 header li a:hover{
   color: #37cca2;
-  text-transform; uppercase;
 }
 header ul {
   text-align: right;
