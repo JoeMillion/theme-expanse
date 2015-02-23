@@ -282,6 +282,9 @@ header h1 a {
 header h1 a:hover {
   color: #25C4AA;
 }
+header .navigation {
+  margin-left: 50px;
+}
 header li {
   color: #ffffff;
   float: right;
