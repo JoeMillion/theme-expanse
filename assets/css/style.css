@@ -282,6 +282,10 @@ header h1 a {
 header h1 a:hover {
   color: #37cca2;
 }
+header li {
+  color: white;
+  float: right;
+}
 header ul {
   text-align: right;
   float: left;
