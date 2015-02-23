@@ -284,6 +284,7 @@ header h1 a:hover {
 }
 header .navigation {
   margin-left: 50px;
+  padding-left: 50px;
 }
 header li {
   color: #ffffff;
