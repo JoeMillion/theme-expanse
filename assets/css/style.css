@@ -271,7 +271,7 @@ header h1 {
   font-size: 1.05rem;
   color: #ffffff;
   float: left;
-  width: 50%;
+  width: 45%;
   margin: 0;
   padding: 0;
   line-height: 1.5rem;
@@ -340,7 +340,7 @@ header .overlay {
   filter: alpha(opacity=0);
 }
 body.short-header header {
-  height: 160px;
+  height: 150px;
 }
 .fade {
   -webkit-animation: fade 2s 1 ease-in;
@@ -564,7 +564,7 @@ body.short-header header {
   top: -210px;
 }
 body.short-header header {
-  height: 130px;
+  height: 150px;
 }
 body.short-header .bio .arrow {
   top: -10px;
